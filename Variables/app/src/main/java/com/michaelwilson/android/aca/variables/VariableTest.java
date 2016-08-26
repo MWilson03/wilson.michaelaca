@@ -13,7 +13,7 @@ public class VariableTest extends AppCompatActivity {
         int distance = 425;
         float batSpeed = 115;
         double ballSpeed = 135;
-        char pitchCount = 7;
+        char pitchCount = '7';
         boolean grandSlam = true;
         long batWeight = 34;
         short exitSpeed = 125;
