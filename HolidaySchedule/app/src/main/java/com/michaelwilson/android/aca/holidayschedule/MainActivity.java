@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
         Button = (Button) findViewById(R.id.Button);
         day = (EditText) findViewById(R.id.day);
-        ResultText = (TextView) findViewById(R.id.ResultText);
+        ResultText = (TextView) findViewById(R.id.textView);
 
         Button.setOnClickListener(new View.OnClickListener() {
 
