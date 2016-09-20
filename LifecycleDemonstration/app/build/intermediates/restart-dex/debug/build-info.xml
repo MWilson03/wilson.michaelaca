@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="3586155314550"
+    token="5126770640762323986" >
+
+    <task
+        name="javac"
+        duration="1659" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="215" />
+    <task
+        name="verifier"
+        duration="23" />
+
+    <artifact
+        location="/Users/michaelwilson/Desktop/wilson.michaelaca/LifecycleDemonstration/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="3586155314550" >
+        <artifact
+            location="/Users/michaelwilson/Desktop/wilson.michaelaca/LifecycleDemonstration/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

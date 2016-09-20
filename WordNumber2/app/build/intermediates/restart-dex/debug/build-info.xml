@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="10099524246403"
+    token="-1816635502936774480" >
+
+    <task
+        name="javac"
+        duration="375" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="145" />
+    <task
+        name="verifier"
+        duration="21" />
+
+    <artifact
+        location="/Users/michaelwilson/Desktop/wilson.michaelaca/WordNumber2/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="10099524246403" >
+        <artifact
+            location="/Users/michaelwilson/Desktop/wilson.michaelaca/WordNumber2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

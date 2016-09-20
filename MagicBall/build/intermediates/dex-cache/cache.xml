@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_49925a27e2df5aaa42a239f177fcac1d2372b8b7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="78ebe4b2a287cec19ad797c2fe04b31031e8d5a7">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4c0be7245f6cd6c1bc1efd913d79f5fd3c977662/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_071103c9bd169cbf650662670c04f26e785bb345/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_049a0245049c5e5816489125c118ffcf47ea6a21/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_93dc71728fc65e89fcdcb030eb66561719ab361d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_2eb04578cdab95b6102d96fcb8194b1f04f7f8ae/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_15d2377b2ead0aacf38b5fe03f69efe26ac61e6b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_98c78da1757a4133a4efd5149984a11a4ef13c04/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7992a3e0caced187323d15ea3e38b63f5c9d4611/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3690426e79aa77767c23ff49ed6301a5d11f7956/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_5d3ccac972f3f32b1039db31c4c05feb39a09158/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_5f66b9ae256c8d5b637d6986977c8772f358ee7c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_faa9c016c2df3f942309bd8b780a96781f061e47/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_0bcb0fb95b2b49b07384546eebf92b72edbe0fbf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_bfa6ce2802b9c6f044ec04edef747892bec04357/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_29c63c674ab3db49ed74f2e5f3f2f65bdb1b7fc8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0c2455e15ea53fbdf80e9e34fc62f025fa65aa3c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="cc1aab3ba8ad25c5ca2f520da499b29be5c65749">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_722ef6111cd4b824eafc2b15122144b7be313ec2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_bb23bf3b19e64551e0595c8eefcab3a0fa0da3af/classes.dex" />
+    </item>
+
+</items>

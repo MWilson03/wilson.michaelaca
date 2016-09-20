@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_83834f4654df8955f20bc1074acd73cfcc324c3e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_3d67fe47d088f1725f5a3a922d2bc4c442cbbba5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_a936d524371b7b5325b403ddd39bd8314feb46be/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_df42b3f426d0556bf1242f79cbb65ba6ad367250/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_92499ff1b6477d37c4d251d5f0c6724901e52bff/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_1dd75c5e353c7608f854e28e4708aeea10e1dbb9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="236ed6755dcb5fe417308059b2406606a97c19fb">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_21e5da6806aeab484d0672f49de735fcda5d2ef8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_296c040c95c58f45b3ae6529457a42a69600d66d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_079f55424ec899cad76ec31073fb37f9f8a1b79e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_a18ae552964c525e517bb4636ea42b6372eec497/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_5c0f3767cd48b2ef7c2ee755d486a286efc21cf2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_ee0438452e08ee26d0cb8ab2304faa017e05ef8f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_5fd624ce19bcadd1eb5b3e10d1c4c0cb7fb5dc53/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ca936c62c269b2c9afa225a728a7c3d6f02fc8ae/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ad014835b657a3e7199d9f8906f75993fd6d541f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ac48337be8670cffde1ae0dced48c0280f06df69">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fc58df0d7155836cb96fac727f8184b6b8c58545/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/ComicBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_c3c42299fe14fc19e5d9598a9046c94a73e631aa/classes.dex" />
+    </item>
+
+</items>

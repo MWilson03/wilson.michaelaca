@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="31340734821508"
+    token="-4943408261654221010" >
+
+    <task
+        name="javac"
+        duration="609" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="368" />
+    <task
+        name="verifier"
+        duration="33" />
+
+    <artifact
+        location="/Users/michaelwilson/Desktop/wilson.michaelaca/PrimeFinder/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="31340734821508" >
+        <artifact
+            location="/Users/michaelwilson/Desktop/wilson.michaelaca/PrimeFinder/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

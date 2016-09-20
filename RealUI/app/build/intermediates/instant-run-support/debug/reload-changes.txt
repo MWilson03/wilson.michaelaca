@@ -1,0 +1,10 @@
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/realui/R$style$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/realui/R$id$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/realui/R$layout$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/realui/R$styleable$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$layout$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/realui/R$mipmap$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/realui/R$string$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/realui/R$integer$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

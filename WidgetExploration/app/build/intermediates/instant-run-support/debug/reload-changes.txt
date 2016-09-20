@@ -1,0 +1,3 @@
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/WidgetExploration/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/widgetexploration/MainActivity$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/WidgetExploration/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/widgetexploration/R$id$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/WidgetExploration/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

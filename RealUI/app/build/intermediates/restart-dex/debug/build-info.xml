@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="tvdpi"
+    format="7"
+    timestamp="8878626101593"
+    token="-3593058874549902710" >
+
+    <task
+        name="javac"
+        duration="1539" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="241" />
+    <task
+        name="verifier"
+        duration="71" />
+
+    <artifact
+        location="/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+
+    <build timestamp="5931893919276" >
+        <artifact
+            location="/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="8878626101593" >
+        <artifact
+            location="/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/michaelwilson/Desktop/wilson.michaelaca/RealUI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

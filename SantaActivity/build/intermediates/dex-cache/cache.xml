@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_f4e30eb5e582ef49c291b3f670f2c73dbbfb7295/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8db6130f670ec81700f90e52117106cc0e3ce708/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_92eccf5ba914ee625bbbeb080f63562055b7dff5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_2a63e8f6564b16de2bad77dda9498cb46f963bc5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_52c3eaff4a2a262bb72f4051e9d55fb5d431d7a1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_296c040c95c58f45b3ae6529457a42a69600d66d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="017ce1247373e10a5fa98a5e35f099833c327dc5">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_79da1fb15ac7861b98a9e6bb59f9a7056bba97cf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_8e0734d82b3cf57677f30259b2af6a226cf9575d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5673519a76a4144c99b4c02b9da6a4a0153c8e44">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f0baf70f807d1444000e7a30befc137455fbb6ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_a7d23f30dd251f57e2a038607efff39b44a53a57/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_ce652e372d3816fa66c502e8fbd7c7c7c4e09e6d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_9fbccc5bf83ae7cf59395598571431637df684ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_b036fd39daa6b219e8b1d07bacd8cc3664e540d5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_68dd1bdcfeb575766e3d777b0bf646ed46c3355c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_0ec8992760733b49a1a38eba43b34afd7739f329/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_07e928f9b35cde5143c7b41efc141752346953f7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/SantaActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_98c12d60f809c8fe38b2b399f4ae842aee68105b/classes.dex" />
+    </item>
+
+</items>

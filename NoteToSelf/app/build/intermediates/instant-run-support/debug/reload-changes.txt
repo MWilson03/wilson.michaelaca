@@ -1,0 +1,11 @@
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/NoteToSelf/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/notetoself/R$style$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/NoteToSelf/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/notetoself/R$integer$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/NoteToSelf/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/notetoself/R$mipmap$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/NoteToSelf/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/notetoself/R$string$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/NoteToSelf/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/NoteToSelf/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/notetoself/R$layout$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/NoteToSelf/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/notetoself/R$menu$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/NoteToSelf/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/notetoself/R$styleable$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/NoteToSelf/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/notetoself/MainActivity$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/NoteToSelf/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/michaelwilson/android/aca/notetoself/R$id$override.class
+CHANGED,/Users/michaelwilson/Desktop/wilson.michaelaca/NoteToSelf/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

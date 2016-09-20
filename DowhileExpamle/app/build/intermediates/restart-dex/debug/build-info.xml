@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="9098506076335"
+    token="1425771234874262600" >
+
+    <task
+        name="javac"
+        duration="345" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="95" />
+    <task
+        name="verifier"
+        duration="14" />
+
+    <artifact
+        location="/Users/michaelwilson/Desktop/wilson.michaelaca/DowhileExpamle/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+
+    <build timestamp="8909621768828" >
+        <artifact
+            location="/Users/michaelwilson/Desktop/wilson.michaelaca/DowhileExpamle/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="9098506076335" >
+        <artifact
+            location="/Users/michaelwilson/Desktop/wilson.michaelaca/DowhileExpamle/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

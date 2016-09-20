@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="325774077613495"
+    token="1777961581798868881" >
+
+    <task
+        name="javac"
+        duration="381" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="144" />
+    <task
+        name="verifier"
+        duration="31" />
+
+    <artifact
+        location="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="325774077613495" >
+        <artifact
+            location="/Users/michaelwilson/Desktop/wilson.michaelaca/MagicBall/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
