@@ -17,15 +17,12 @@ import java.io.Writer;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by michaelwilson on 9/19/16.
- */
 public class JSONSerializer {
+
     private String mFilename;
     private Context mContext;
 
     // All the rest of the code for the class goes here
-
     public JSONSerializer(String fn, Context con){
         mFilename = fn;
         mContext = con;
@@ -57,7 +54,7 @@ public class JSONSerializer {
         }
     }
 
-    public ArrayList<Note> load() throws IOException, JSONException{
+    public ArrayList<Note> load() throws IOException, JSONException {
         ArrayList<Note> noteList = new ArrayList<Note>();
         BufferedReader reader = null;
         try {
@@ -92,4 +89,3 @@ public class JSONSerializer {
 
 
 }// End of class
-

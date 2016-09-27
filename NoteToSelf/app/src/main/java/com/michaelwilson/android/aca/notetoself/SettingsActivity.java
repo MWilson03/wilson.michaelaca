@@ -100,6 +100,8 @@ public class SettingsActivity extends AppCompatActivity {
                         case R.id.radioNone:
                             mAnimOption = NONE;
                             break;
+
+
                     }
                     // End switch block
 
@@ -109,9 +111,6 @@ public class SettingsActivity extends AppCompatActivity {
 
             }
         });
-
-
-
     }
 
     @Override
@@ -121,4 +120,5 @@ public class SettingsActivity extends AppCompatActivity {
         // Save the settings here
         mEditor.commit();
     }
+
 }

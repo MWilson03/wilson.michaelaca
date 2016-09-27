@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/rotate_right.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/src/main/res/anim/rotate_right.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/zoom_in.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/src/main/res/anim/zoom_in.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/zoom_out.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/src/main/res/anim/zoom_out.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/bounce.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/src/main/res/anim/bounce.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/rotate_left.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/src/main/res/anim/rotate_left.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/right_left.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/src/main/res/anim/right_left.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/flash.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/src/main/res/anim/flash.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/fade_in_out.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/src/main/res/anim/fade_in_out.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/top_bot.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/src/main/res/anim/top_bot.xml"
+    },
+    {
+        "merged": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/build/intermediates/res/merged/debug/anim/left_right.xml",
+        "source": "/Users/michaelwilson/Desktop/wilson.michaelaca/MyApplication2/app/src/main/res/anim/left_right.xml"
+    }
+]
