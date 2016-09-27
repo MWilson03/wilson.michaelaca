@@ -12,7 +12,7 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.michaelwilson.android.aca.magicball.MainActivity"
     tools:showIn="@layout/activity_main"
-    android:background="@drawable/epicwallpaper">
+    android:background="@color/colorPrimaryDark">
 
     <TextView
         android:layout_width="wrap_content"
@@ -23,6 +23,6 @@
         android:id="@+id/textView"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
-        android:textColor="#a40d0d"
-        android:textStyle="bold"/>
+        android:textColor="@android:color/holo_orange_dark"
+        android:textStyle="bold|italic"/>
 </RelativeLayout>
