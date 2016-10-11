@@ -395,6 +395,7 @@ public class MainActivity extends AppCompatActivity {
                 Log.e("Error Saving Notes", "", e);
             }
         } // end saveNotes()
+
         public void deleteNote(int n){
 
             noteList.remove(n);

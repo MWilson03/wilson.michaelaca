@@ -45,6 +45,10 @@ public class DialogShowNote extends DialogFragment {
         ImageView ivImportant = (ImageView) dialogView.findViewById(R.id.imageViewImportant);
         ImageView ivTodo = (ImageView) dialogView.findViewById(R.id.imageViewTodo);
         ImageView ivIdea = (ImageView) dialogView.findViewById(R.id.imageViewIdea);
+        ImageView imageView = (ImageView) dialogView.findViewById(R.id.imageView);
+
+        imageView.setImageURI(mNote.getUri());
+
 
         /*
         This code checks whether the note being shown is important and then shows
