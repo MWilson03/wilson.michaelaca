@@ -1,13 +1,12 @@
 package com.michaelwilson.android.aca.pong;
 
 import android.app.Activity;
-import android.content.Context;
-import android.content.Intent;
 import android.graphics.Point;
 import android.os.Bundle;
 import android.view.Display;
-import android.view.View;
 import android.widget.Button;
+
+import static com.michaelwilson.android.aca.pong.R.layout.home_screen;
 
 public class MainActivity extends Activity {
 
@@ -22,8 +21,8 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.home_screen);
-        addListenerOnButton();
+        setContentView(home_screen);
+
 
         // Get a Display object to access screen details
         Display display = getWindowManager().getDefaultDisplay();
@@ -33,29 +32,11 @@ public class MainActivity extends Activity {
         display.getSize(size);
 
         // Initialize gameView and set it as the view
-        gameView = new GameView(this, size.x, size.y);
+        gameView = new GameView(this, size.x, size.y, this);
         setContentView(gameView);
     }
 
-    public void addListenerOnButton() {
 
-        final Context context = this;
-
-        btnButton = (Button) findViewById(R.id.btnButton);
-
-        btnButton.setOnClickListener(new View.OnClickListener() {
-
-            @Override
-            public void onClick(View arg0) {
-
-                Intent intent = new Intent(context, App2Activity.class);
-                startActivity(intent);
-
-            }
-
-        });
-
-    }
 
     // This method executes when the player starts the game
     @Override

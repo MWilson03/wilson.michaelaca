@@ -1,6 +1,9 @@
 package com.michaelwilson.android.aca.pong;
 
+import android.app.AlertDialog;
 import android.content.Context;
+import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.res.AssetFileDescriptor;
 import android.content.res.AssetManager;
 import android.graphics.Canvas;
@@ -71,18 +74,27 @@ public class GameView extends SurfaceView implements Runnable {
     // Lives
     int mLives = 3;
 
+    Context mContext;
+
+    MainActivity mMainActivity;
+
     /*
     When we call new() on gameView
     This custom constructor runs
     */
 
-    public GameView(Context context, int x, int y) {
+    public GameView(Context context, int x, int y, MainActivity mainActivity) {
+
+
 
     /*
     The next line of code asks the
     SurfaceView class to set up our object.
     */
         super(context);
+
+        mMainActivity = mainActivity;
+
 
         // Set the screen width and height
         mScreenX = x;
@@ -153,16 +165,51 @@ public class GameView extends SurfaceView implements Runnable {
 
     public void setupAndRestart() {
 
+
+
         // Put the mBall back to the start
         mBall.reset(mScreenX, mScreenY);
 
         // if game over reset scores and mLives
         if (mLives == 0) {
+
+            mMainActivity.runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    AlertDialog.Builder builder1 = new AlertDialog.Builder(getContext());
+                    builder1.setMessage("You are out of lives, New game or Home screen?");
+                    builder1.setCancelable(true);
+
+                    builder1.setPositiveButton(
+                            "Restart",
+                            new DialogInterface.OnClickListener() {
+                                public void onClick(DialogInterface dialog, int id) {
+                                    dialog.cancel();
+                                }
+                            });
+
+                    builder1.setNegativeButton(
+                            "Home Screen",
+                            new DialogInterface.OnClickListener() {
+                                public void onClick(DialogInterface dialog, int id) {
+
+                                    Intent intent = new Intent(getContext(), StartGameScreen.class);
+                                    getContext().startActivity(intent);
+
+
+                                }
+                            });
+
+                    builder1.create();
+                    builder1.show();
+                }
+            });
             mScore = 0;
             mLives = 3;
         }
 
     }
+
 
     @Override
     public void run() {
