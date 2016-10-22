@@ -1,0 +1,4 @@
+<resources>
+
+    <string name="base_text">This is in the base res/values folder.</string>
+</resources>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/rxandroidexamples/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/rxandroidexamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_4bb740075d0540b1504bcdc5c3e42bc7e7e7eaa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michaelwilson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/rxandroidexamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_04cbb48534c7546013fec19309d0f96262aba5bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/rxandroidexamples/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/rxandroidexamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_f5a570429c1186f2cc2c16434d66af866c26caec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michaelwilson/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.0/748f0546d5c3c27f1aef07270ffea0c45f0c42a4/rxjava-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/rxandroidexamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.0_4b8653716c46a6602505ab800ef29d05e340a91a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/rxandroidexamples/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/rxandroidexamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_10bd162233a3b135612ff583c3fb07a57ef04c66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/rxandroidexamples/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/rxandroidexamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.1.0_652bec19ac4f12dcaaa6521cb53683bdb40babce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/rxandroidexamples/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e755804dc5f7ef718be1550fb6174a35af264383">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/rxandroidexamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e78e9e899e7d9db14a63140eb1716786cda00b6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/rxandroidexamples/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/rxandroidexamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_fe577fe4014899e6b44bd55c80081f0022876a38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michaelwilson/Desktop/wilson.michaelaca/rxandroidexamples/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c9ff41354b664c2c5d2854a9af4d0aa35bcbf069">
+        <dex dex="/Users/michaelwilson/Desktop/wilson.michaelaca/rxandroidexamples/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cd0ac0ecd94fd0ad0bd155970e20bcf1c8526304/classes.dex" />
+    </item>
+
+</items>
